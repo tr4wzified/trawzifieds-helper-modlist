@@ -1,10 +1,10 @@
 [
   {
-    "title": "Halgari\u0027s Helper",
+    "title": "trawzifieds broken list with a double machine url",
     "description": "Only installs MO2 for Skyrim SE, but this list is used for testing several Wabbajack features",
     "author": "Halgari",
     "maintainers": [
-      "github/halgari"
+      "github/tr4wzified"
     ],
     "game": "skyrimspecialedition",
     "official": false,
