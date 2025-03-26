@@ -15,25 +15,28 @@
     "nsfw": false,
     "utility_list": true,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/halgaris_helper/title.jpg",
       "readme": "https://www.wabbajack.org",
-      "download": "https://authored-files.wabbajack.org/HalgarisHelper.wabbajack_5d55cc2d-2dbd-49ba-82d5-a66fb0572c54",
+      "download": "https://authored-files.wabbajack.org/Skyrimified.wabbajack_0c5267a6-4af9-472a-af4e-0046b1cccdd9",
       "machineURL": "trawzifieds_helper",
-      "discordURL": "https://discord.gg/wabbajack"
+      "discordURL": "https://discord.gg/wabbajack",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "83fJglT61Dk=",
-      "Size": 1588954,
-      "NumberOfArchives": 1,
-      "SizeOfArchives": 90051560,
-      "NumberOfInstalledFiles": 1512,
-      "SizeOfInstalledFiles": 290157748
+      "Hash": "87WAsbHhHzo=",
+      "Size": 143350,
+      "NumberOfArchives": 2,
+      "SizeOfArchives": 90189244,
+      "NumberOfInstalledFiles": 1831,
+      "SizeOfInstalledFiles": 296172765,
+      "TotalSize": 386362009
     },
-    "version": "3.0",
+    "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-10-23T21:04:36.9508888Z",
+    "dateUpdated": "2025-03-26T21:25:32.3951988Z",
     "repositoryName": ""
   }
 ]
