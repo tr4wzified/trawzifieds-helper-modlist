@@ -20,14 +20,14 @@
     "links": {
       "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/halgaris_helper/title.jpg",
       "readme": "https://www.wabbajack.org",
-      "download": "https://authored-files.wabbajack.org/Skyrimified.wabbajack_956bb999-e265-4b02-87fe-2e135fa0e8cc",
+      "download": "https://authored-files.wabbajack.org/Skyrimified.wabbajack_43469fd7-792d-404e-800b-17ab1dd3b848",
       "machineURL": "trawzifieds_helper",
       "discordURL": "https://discord.gg/wabbajack",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "ma/mpRqMLD8=",
-      "Size": 143342,
+      "Hash": "AWkgqvIM5qs=",
+      "Size": 143347,
       "NumberOfArchives": 2,
       "SizeOfArchives": 90189244,
       "NumberOfInstalledFiles": 1831,
@@ -36,7 +36,7 @@
     },
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-26T21:39:16.353516Z",
+    "dateUpdated": "2025-03-26T21:40:43.4951837Z",
     "repositoryName": ""
   }
 ]
